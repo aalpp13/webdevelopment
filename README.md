@@ -1,7 +1,7 @@
 # Alperenin Project
 
 ## Description
-This is a static profile page developed for my ITMO web development assignment class. It showcases basic information.
+This is a static profile page developed for my ITMO web development  class. It showcases basic information.
 
 ## Installation
 To view the profile page:
